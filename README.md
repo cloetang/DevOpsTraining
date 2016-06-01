@@ -1,1 +1,1 @@
-# DevOpsTraining
+# DevOpsAcademyTraining
